@@ -1,0 +1,13 @@
+Optimal position : 
+ 18 50 22 54
+Antenna position : 
+18→       ←22
+↓ \ 
+
+
+
+
+
+
+ ↑        \ 
+50         54

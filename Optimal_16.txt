@@ -1,0 +1,13 @@
+Optimal position : 
+ 68 196 76 204
+Antenna position : 
+68?       ?76
+? \ 
+
+
+
+
+
+
+ ?        \ 
+196         204
